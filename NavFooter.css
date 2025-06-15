@@ -2,9 +2,11 @@ header{
     background-color: rgb(210, 251, 210);
     display: flex;
     align-items: center;
+    justify-content:space-between;
     max-gap: 480px;
     position: sticky;
     top: 0%;
+    z-index:1000;
     height: 70px;
     border-bottom: 0.01px solid rgb(164, 232, 147);
     
@@ -20,7 +22,7 @@ header{
 nav ul{
     display: flex;
     list-style: none;
-    gap: 45px;
+    gap: 30px;
 }
 nav ul li a{
     text-decoration: none;
