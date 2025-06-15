@@ -1,6 +1,6 @@
 const HEADER=`
 <header>
-    <div class="logo">Organic Farming 🌾   &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;</div>
+    <div class="logo">Organic Farming 🌾  </div>
     <nav>
       <ul id="nav-links">
         <li><a href="index.html">Home</a></li>
