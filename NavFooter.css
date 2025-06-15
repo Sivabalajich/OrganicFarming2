@@ -6,7 +6,7 @@ header{
     gap: 380px;
     position: sticky;
     top: 0%;
-    z-index:1000;
+    z-index:999;
     height: 70px;
     border-bottom: 0.01px solid rgb(164, 232, 147);
     
@@ -22,7 +22,7 @@ header{
 nav ul{
     display: flex;
     list-style: none;
-    gap: 40px;
+    gap: 35px;
 }
 nav ul li a{
     text-decoration: none;
