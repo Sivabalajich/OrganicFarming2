@@ -22,7 +22,7 @@ header{
 nav ul{
     display: flex;
     list-style: none;
-    gap: 30px;
+    gap: 40px;
 }
 nav ul li a{
     text-decoration: none;
