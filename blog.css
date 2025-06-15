@@ -1,0 +1,35 @@
+ *{     
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body {
+      margin:0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: rgb(234, 233, 233);
+    }
+
+.sec h1{
+    text-align: center;
+    color: rgb(175, 26, 26);
+}
+.div1{
+    display: flex;
+    padding-left: 5px;
+    background-color: rgb(186, 233, 153);
+    align-items: center;
+    width: 1100px;
+    max-height: fit-content;
+    margin-left: 90px;
+    border:1px solid black;
+    box-shadow: 3px 3px 6px rgb(3, 87, 53);
+}
+
+.div1 img{
+    height: 300px;
+    max-width: 350px;
+    
+}
+
+
+

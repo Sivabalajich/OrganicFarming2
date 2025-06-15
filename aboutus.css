@@ -1,0 +1,22 @@
+ *{ margin: 0%;    
+    padding: 0%;
+    
+}
+body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      justify-content: center;
+      background-color: rgb(243, 243, 243);
+      font-weight: bold;
+    }
+   .div{
+    color: rgb(49, 252, 73);
+    background-image:linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.8)) ,url('r.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 120px;
+    margin: 10px 280px 0px 280px;
+    border: 5px groove rgb(12, 80, 12);
+    padding: 20px 20px 20pc 30px;
+    border-radius: 20%;
+    box-shadow: 10px 10px 7px black;
+   }
