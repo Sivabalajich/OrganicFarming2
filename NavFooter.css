@@ -2,7 +2,7 @@ header{
     background-color: rgb(210, 251, 210);
     display: flex;
     align-items: center;
-    gap: 480px;
+    max-gap: 480px;
     position: sticky;
     top: 0%;
     height: 70px;
